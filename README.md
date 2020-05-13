@@ -1,9 +1,9 @@
 # Coding Firmware For Xilinx
 
 
-The project provides introduction to coding Algorithms focused on Combinatorial Optimizations
-
+The project provides introduction to coding Algorithms focused on firmware for Xilinx FPGAs
 All images are custom by Alpa D. Desai or have references
+
 
 ## Applications of Firmware
 ![image](AllegroSchematicHDL_Certificate.jpg)
