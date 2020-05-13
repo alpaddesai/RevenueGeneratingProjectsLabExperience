@@ -4,7 +4,7 @@
 ## Applications of Firmware
 ![image](AllegroSchematicHDL_Certificate.jpg)
 
-## Applications of High Speed Constraint Manager
+## Applications of firmware focused on high speed designs
 ![image](AllegroHighSpeedConstraintManager.jpg)
 
 ## Applications of FPGAs
