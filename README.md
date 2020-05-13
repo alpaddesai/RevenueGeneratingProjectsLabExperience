@@ -1,6 +1,10 @@
 # Coding Firmware For Xilinx
 
 
+The project provides introduction to coding Algorithms focused on Combinatorial Optimizations
+
+All images are custom by Alpa D. Desai or have references
+
 ## Applications of Firmware
 ![image](AllegroSchematicHDL_Certificate.jpg)
 
