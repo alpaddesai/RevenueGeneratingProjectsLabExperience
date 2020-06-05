@@ -9,4 +9,6 @@ Please reference the https://github.com/alpaddesai/CodingFirmwareForXilinx/relea
 ## Xilinx
 ![image](Xilinx.png)
 
+## Verilog
+![image](Verilog.png)
 
