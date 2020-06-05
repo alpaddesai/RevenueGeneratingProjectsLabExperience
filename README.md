@@ -6,10 +6,7 @@ All images are custom by Alpa D. Desai or have references
 
 Please reference the https://github.com/alpaddesai/CodingFirmwareForXilinx/releases for details
 
+## Xilinx
+![image](!Xilinx.jpg)
 
-## Applications of Firmware
-![image](AllegroSchematicHDL_Certificate.jpg)
-
-## Applications of firmware focused on high speed designs
-![image](AllegroHighSpeedConstraintManager.jpg)
 
