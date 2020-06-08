@@ -6,8 +6,6 @@ All images are custom by Alpa D. Desai or have references
 
 Please reference the https://github.com/alpaddesai/CodingFirmwareForXilinx/releases for details
 
-## Xilinx
-![image](Xilinx.jpg)
 
 ## Verilog
 ![image](Verilog.jpg)
