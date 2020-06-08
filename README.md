@@ -10,3 +10,6 @@ Please reference the https://github.com/alpaddesai/CodingFirmwareForXilinx/relea
 ## Verilog
 ![image](Verilog.jpg)
 
+## FPGA 
+![image](DesigningFPGA.jpg)
+
