@@ -17,5 +17,5 @@ Please reference the https://github.com/alpaddesai/CodingFirmwareForXilinx/relea
 ![image](CbasedHLS.jpg)
 
 ## SDSoC (in progress)
-![image]()
+
 
