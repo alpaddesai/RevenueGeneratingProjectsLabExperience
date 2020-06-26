@@ -13,9 +13,9 @@ Please reference the https://github.com/alpaddesai/CodingFirmwareForXilinx/relea
 ## FPGA 
 ![image](DesigningFPGA.jpg)
 
-## C based HLS (in progress)
+## C based HLS ( project tbd)
 ![image](CbasedHLS.jpg)
 
-## SDSoC (in progress)
+## SDSoC (project tbd)
 ![image](SDSoC.jpg)
 
