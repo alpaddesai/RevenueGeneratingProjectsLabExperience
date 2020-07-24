@@ -19,3 +19,4 @@ Please reference the https://github.com/alpaddesai/CodingFirmwareForXilinx/relea
 ## SDSoC (project tbd)
 ![image](SDSoC.jpg)
 
+Additional details : https://github.com/alpaddesai/DigitalLogicHDL
