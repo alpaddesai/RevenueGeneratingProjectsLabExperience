@@ -12,6 +12,9 @@ Please reference the https://github.com/alpaddesai/CodingFirmwareForXilinx/relea
 
 ## FPGA 
 ![image](DesigningFPGA.jpg)
+### Access to Vivado
+![image](Vivado.png)
+
 
 ## C based HLS ( project tbd)
 ![image](CbasedHLS.jpg)
