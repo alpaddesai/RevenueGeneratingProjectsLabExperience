@@ -12,7 +12,7 @@ Please reference the https://github.com/alpaddesai/CodingFirmwareForXilinx/relea
 
 ## FPGA 
 ![image](DesigningFPGA.jpg)
-### Access to Vivado
+### Access to Xilinx Vivado
 ![image](Vivado.png)
 
 
