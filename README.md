@@ -15,11 +15,4 @@ Please reference the https://github.com/alpaddesai/CodingFirmwareForXilinx/relea
 ### Access to Xilinx Vivado
 ![image](Vivado.png)
 
-
-## C based HLS ( project tbd)
-![image](CbasedHLS.jpg)
-
-## SDSoC (project tbd)
-![image](SDSoC.jpg)
-
 Additional details : https://github.com/alpaddesai/DigitalLogicHDL
