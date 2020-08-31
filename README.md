@@ -16,4 +16,4 @@ Please reference the https://github.com/alpaddesai/CodingFirmwareForXilinx/relea
 ### Access to Xilinx Vivado , Learning Tool Xilinx ISE
 ![image](Vivado.png)
 
-Additional details : https://github.com/alpaddesai/DigitalLogicHDL, https://github.com/alpaddesai/ComputerArchitecture and https://github.com/alpaddesai/SystemVerilog
+Additional details : https://github.com/alpaddesai/DigitalLogicHDL and https://github.com/alpaddesai/ComputerArchitecture 
