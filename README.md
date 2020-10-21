@@ -11,8 +11,11 @@ All images are custom by Alpa D. Desai or have references
 ## FPGA 
 ![image](DesigningFPGA.jpg)
 
-## SDSOC
+## C Based HLA
 ![image](CbasedHLA.jpg)
+
+## SDSOC
+![image](SDSOC.jpg)
 
 ### Access to Xilinx Vivado Learning Tool Xilinx ISE
 ![image](Vivado.png)
