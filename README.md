@@ -11,7 +11,10 @@ All images are custom by Alpa D. Desai or have references
 ## FPGA 
 ![image](DesigningFPGA.jpg)
 
-### Access to Xilinx Vivado , Learning Tool Xilinx ISE
+## SDSOC
+![image](CbasedHLA.jpg)
+
+### Access to Xilinx Vivado Learning Tool Xilinx ISE
 ![image](Vivado.png)
 
 Additional details : https://github.com/alpaddesai/DigitalLogicHDL and https://github.com/alpaddesai/ComputerArchitecture 
