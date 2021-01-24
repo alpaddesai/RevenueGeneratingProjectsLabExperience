@@ -21,3 +21,5 @@ All images are custom by Alpa D. Desai or have references
 ![image](Vivado.png)
 
 Additional details : https://github.com/alpaddesai/DigitalLogicHDL and https://github.com/alpaddesai/ComputerArchitecture 
+
+![image](USCopyrightCertificateofRegistration.png)
