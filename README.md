@@ -11,11 +11,6 @@ All images are custom by Alpa D. Desai or have references
 ## FPGA 
 ![image](DesigningFPGA.jpg)
 
-## C Based HLA
-![image](CbasedHLA.jpg)
-
-## SDSOC
-![image](SDSOC.jpg)
 
 ## Embedded Design on processor
 ![image](EmbeddedSystemDesign.jpg)
