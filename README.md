@@ -1,7 +1,7 @@
-# Coding Firmware For Xilinx
+# Embedded Design
 
 
-The project provides introduction to coding algorithms focused on firmware for Xilinx FPGAs.
+The project provides introduction embedded design
 All images are custom by Alpa D. Desai or have references
 
 
@@ -17,7 +17,7 @@ All images are custom by Alpa D. Desai or have references
 ## SDSOC
 ![image](SDSOC.jpg)
 
-## Embedded Design on ucontroller
+## Embedded Design on processor
 ![image](EmbeddedSystemDesign.jpg)
 
 
