@@ -17,7 +17,8 @@ All images are custom by Alpa D. Desai or have references
 ## SDSOC
 ![image](SDSOC.jpg)
 
-### Access to Xilinx Vivado Learning Tool Xilinx ISE
-![image](Vivado.png)
+## Embedded Design on ucontroller
+![image](EmbeddedSystemDesign.jpg)
+
 
 Additional details : https://github.com/alpaddesai/DigitalLogicHDL and https://github.com/alpaddesai/ComputerArchitecture 
