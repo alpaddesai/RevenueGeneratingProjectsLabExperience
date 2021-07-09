@@ -5,9 +5,6 @@ The project provides introduction embedded design
 All images are custom by Alpa D. Desai or have references
 
 
-## Verilog
-![image](Verilog.jpg)
-
 ## FPGA 
 ![image](DesigningFPGA.jpg)
 
