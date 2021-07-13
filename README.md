@@ -13,4 +13,7 @@ All images are custom by Alpa D. Desai or have references
 ## Programming Board
 ![image](ProgrammingBoardImage.png)
 
+## Ethics and Integrity
+![image](ProgrammingBoardImage.png)
+
 Additional details : https://github.com/alpaddesai/DigitalLogicHDL and https://github.com/alpaddesai/ComputerArchitecture 
