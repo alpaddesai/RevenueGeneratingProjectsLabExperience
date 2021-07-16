@@ -16,6 +16,9 @@ All images are custom by Alpa D. Desai or have references
 ## ARM Ground Up
 ![image](RTOS_ARM2.jpg)
 
+## Digital Signal Processing
+![image](DSP.jpg)
+
 ## Programming Board
 ![image](ProgrammingBoardImage.png)
 
