@@ -10,11 +10,11 @@ All images are custom by Alpa D. Desai or have references
 ## Embedded Design on processor
 ![image](EmbeddedSystemDesign.jpg)
 
-## Programming Board
-![image](ProgrammingBoardImage.png)
-
 ## ARM Ground Up
 ![image](ARM_GroundUp.jpg)
+
+## Programming Board
+![image](ProgrammingBoardImage.png)
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
