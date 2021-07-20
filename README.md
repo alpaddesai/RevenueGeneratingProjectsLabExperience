@@ -11,9 +11,11 @@ All images are custom by Alpa D. Desai or have references
 ![image](EmbeddedSystemDesign.jpg)
 
 ## ARM Ground Up
+#### incomplete - UART port
 ![image](ARM_GroundUp.jpg)
 
 ## ARM Ground Up
+#### incomplete - oscilloscope, wiring.
 ![image](RTOS_ARM2.jpg)
 
 ## Digital Signal Processing
