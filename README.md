@@ -20,6 +20,7 @@ All images are custom by Alpa D. Desai or have references
 
 ## Digital Signal Processing
 ![image](DSP.jpg)
+![image](arm_dsp.jpg)
 
 ## Programming Board
 ![image](ProgrammingBoardImage.png)
