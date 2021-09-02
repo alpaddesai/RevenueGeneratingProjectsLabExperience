@@ -26,6 +26,9 @@ All images are custom by Alpa D. Desai or have references
 ## Programming Board
 ![image](ProgrammingBoardImage.png)
 
+## Simulations Performance Metrics
+![image](SimulationsPerformanceMetrics.jpg)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
