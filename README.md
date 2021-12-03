@@ -7,6 +7,8 @@ All images are custom by Alpa D. Desai or have references
 ## FPGA 
 ![image](DesigningFPGA.jpg)
 
+![image](ECE.png)
+
 ## Embedded Design on processor
 ![image](EmbeddedSystemDesign.jpg)
 
