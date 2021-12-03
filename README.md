@@ -7,6 +7,7 @@ All images are custom by Alpa D. Desai or have references
 ## FPGA 
 ![image](DesigningFPGA.jpg)
 
+## Graduate admission letter
 ![image](ECE.png)
 
 ## Embedded Design on processor
