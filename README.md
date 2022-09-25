@@ -32,4 +32,6 @@ All images are custom by Alpa D. Desai or have references
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Additional details : https://github.com/alpaddesai/ComputerArchitecture 
