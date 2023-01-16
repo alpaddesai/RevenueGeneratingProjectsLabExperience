@@ -30,4 +30,4 @@ All images are custom by Alpa D. Desai or have references
 
 ![image](USCopyrightCertificate.png)
 
-Additional details : https://github.com/alpaddesai/ComputerArchitecture 
+Additional details : https://github.com/alpaddesai/ArchitecturalProductDesign
