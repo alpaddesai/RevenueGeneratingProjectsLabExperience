@@ -7,6 +7,9 @@ All images are custom by Alpa D. Desai or have references
 ## Lab Experience
 ![image](RevenueGeneratingProjectsLabExperience.jpg)
 
+## Ethics and Excellence
+![image](EthicsandExcellence.png)
+
 ## Algorithms
 ![image](SimulationsPerformanceMetrics.jpg)
 
